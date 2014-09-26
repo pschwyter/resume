@@ -1,0 +1,37 @@
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+
+body {
+	font-family: helvetica, arial, sans-serif;
+}
+
+h1, h2 {
+	color: blue;
+}
+
+p {
+	font-size: 14px;
+}
+
+.container {
+	width: 960px;
+	margin: auto;
+}
+
+.primary-header {
+	float: left;
+	width: 340px;
+}
+
+.primary-section {
+	padding-top: 5px;
+	width: 620px;
+	float: left;
+}
+
+.sub-section {
+	border-bottom: 2px solid #93AFAF;
+}
